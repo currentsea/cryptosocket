@@ -1,0 +1,22 @@
+{
+  "currencyPair": {
+    "BTC/EUR": {
+      "priceScale": 2
+    }
+  },
+  "currency": {
+    "BTC": {
+      "scale": 8
+    },
+    "EUR": {
+      "scale": 2
+    }
+  },
+  "privateRateLimits": [
+    {
+      "calls" : 600,
+      "timeUnit": "minutes"
+    }
+  ],
+  "shareRateLimits": true
+}

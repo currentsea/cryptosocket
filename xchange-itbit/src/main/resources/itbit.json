@@ -1,0 +1,14 @@
+{
+  "currencyPair": {
+    "XBT/USD": {
+      "priceScale": 2
+    },
+    "XBT/EUR": {
+      "priceScale": 2
+    },
+    "XBT/SGD": {
+      "priceScale": 2
+    }
+  },
+  "currency": {}
+}

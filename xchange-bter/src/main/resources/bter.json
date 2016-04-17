@@ -1,0 +1,13 @@
+{
+  "currencyPair": {
+    "BTC/CNY": {
+      "priceScale": 8,
+      "tradingFee": 0.002
+    },
+    "LTC/CNY": {
+      "priceScale": 8,
+      "tradingFee": 0.002
+    }
+  },
+  "currency": {}
+}

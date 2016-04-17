@@ -1,0 +1,11 @@
+{
+  "currencyPair": {
+    "BTC/USD": {
+      "priceScale": 4
+    },
+    "BTC/CNY": {
+      "priceScale": 4
+    }
+  },
+  "currency": {}
+}

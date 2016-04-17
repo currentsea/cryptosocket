@@ -1,0 +1,18 @@
+{
+  "currencyPair": {
+    "BTC/USD": {
+      "priceScale": 2
+    },
+    "LTC/USD": {
+      "priceScale": 2
+    }
+  },
+  "currency": {},
+  "privateRateLimits": [
+    {
+      "calls": 20,
+      "timeUnit": "seconds"
+    }
+  ],
+  "shareRateLimits": true
+}

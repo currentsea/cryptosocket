@@ -1,0 +1,14 @@
+{
+  "currencyPair": {
+    "BTC/USD": {
+      "priceScale": 2
+    }
+  },
+  "currency": {},
+  "privateRateLimits": [
+    {
+      "calls": 2
+    }
+  ],
+  "shareRateLimits": true
+}
